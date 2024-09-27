@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush mane</h1>
+<h1 align="center">Hi 👋, I'm Ayush Mane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **ayushmane3036@gmail.com**
